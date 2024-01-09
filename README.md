@@ -10,8 +10,7 @@ Email: rashid@just.edu.bd
 <p><a href="https://phy8.github.io/Project/2021_Nasrin_171331_CeP.pdf">Nasrin Afroz Nipa (2021)</a></p>
 <p><a href="https://phy8.github.io/Project/2021_Kanij_171332_ZrCrPb.pdf">Kanij Fatima (2021)</a></p>
 
-<hr style="width:50%;text-align:center"> 
-
+<hr style="height:5px;border-width:0;color:gray">
 <p><a href="https://phy8.github.io/Project/2020_Salma_161303_Nb_TiO2.pdf">Most. Salma Zahan Lovely (2020)</a></p>
 <p><a href="https://phy8.github.io/Project/2020_Rokonuzzaman_161304.pdf">Md. Rokonuzzaman (2020)</a></p>
 <p><a href="https://phy8.github.io/Project/2020_Surov_Rahman_161305.pdf">Md. Surov Rahman (2020)</a></p>
@@ -19,6 +18,5 @@ Email: rashid@just.edu.bd
 <p><a href="https://phy8.github.io/Project/2020_Sourab_Bosu_161322_NaMCl3.pdf">Sourab Bosu (2020)</a></p>
 <p><a href="https://phy8.github.io/Project/2020_Diti_161330_KMCl3.pdf">Diti Biswas (2020)</a></p>
    
-<hr style="width:50%;text-align:center"> 
-           
+<hr style="height:5px;border-width:0;color:gray">
 <p><a href="https://phy8.github.io/Project/2019_Topu.pdf">Topu Saha (2019)</a></p>
