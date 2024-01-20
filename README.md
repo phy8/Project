@@ -4,9 +4,9 @@ Email: rashid@just.edu.bd
 
 <h2>Undergraduate Project Reports</h2>
 
-<p><a href="https://phy8.github.io/Project/2022_Jinnatun_Nesa_181315_NaGeBr3_pressure"> Jinnatun Nesa (2022)</a></p>
-<p><a href="https://phy8.github.io/Project/2022_Julekha_Akter_Badhon_181317_NaGeCl3_pressure"> Mst. Julekha Akter Badhon(2022)</a></p>
-<p><a href="https://phy8.github.io/Project/2022_Mowmita_khatun_181333_NaGeI3_pressure"> Mowmita khatun (2022)</a></p>
+<p><a href="https://phy8.github.io/Project/2022_Jinnatun_Nesa_181315_NaGeBr3_pressure.pdf"> Jinnatun Nesa (2022)</a></p>
+<p><a href="https://phy8.github.io/Project/2022_Julekha_Akter_Badhon_181317_NaGeCl3_pressure.pdf"> Mst. Julekha Akter Badhon(2022)</a></p>
+<p><a href="https://phy8.github.io/Project/2022_Mowmita_khatun_181333_NaGeI3_pressure.pdf"> Mowmita khatun (2022)</a></p>
 
 <hr style="height:5px;border-width:0;color:gray">
 <p><a href="https://phy8.github.io/Project/2021_Dil-Afroj_171308_TbP.pdf">Mst. Dil Afroj (2021)</a></p>
