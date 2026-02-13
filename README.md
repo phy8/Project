@@ -4,8 +4,8 @@ Email: rashid@just.edu.bd
 
 <h2>Undergraduate Project Reports</h2>
 
-<p><a href="https://phy8.github.io/Project/2023_Sheikh_Mahadia_Mahi_191306_Ca2VInO6.pdf"> Sheikh Mahadia Mahi (2023)</a></p>
-<p><a href="https://phy8.github.io/Project/2023_Lakshmi_Rani_Paul_191311_Ca2VTlO6.pdf"> Lakshmi Rani Paul (2023)</a></p>
+<p><a href="https://phy8.github.io/Project/2023_Sheikh_Mahadia_Mahi_191306_Ca2VInO6.pdf"> Sheikh Mahadia Mahi (2023)</a> [<a href="https://doi.org/10.1016/j.mtcomm.2026.114620" target="_blank">Publication</a>]</p>
+<p><a href="https://phy8.github.io/Project/2023_Lakshmi_Rani_Paul_191311_Ca2VTlO6.pdf"> Lakshmi Rani Paul (2023)</a> [<a href="https://doi.org/10.1016/j.mtcomm.2026.114620" target="_blank">Publication</a>]</p>
 
 
 <hr style="height:5px;border-width:0;color:gray">
@@ -18,7 +18,7 @@ Email: rashid@just.edu.bd
 <p><a href="https://phy8.github.io/Project/2021_Shahida_171322_Zr2NiB.pdf">Mst. Shahida Afrin (2021)</a></p>
 <p><a href="https://phy8.github.io/Project/2021_Afridi_171328_LaP.pdf">Al Mojahid Afridi (2021)</a></p>
 <p><a href="https://phy8.github.io/Project/2021_Nasrin_171331_CeP.pdf">Nasrin Afroz Nipa (2021)</a></p>
-<p><a href="https://phy8.github.io/Project/2021_Kanij_171332_ZrCrPb.pdf">Kanij Fatima (2021)</a></p>
+<p><a href="https://phy8.github.io/Project/2021_Kanij_171332_ZrCrPb.pdf">Kanij Fatima (2021)</a> [<a href="https://doi.org/10.1007/s12034-026-03549-z" target="_blank">Publication</a>]</p>
 
 <hr style="height:5px;border-width:0;color:gray">
 <p><a href="https://phy8.github.io/Project/2020_Salma_161303_Nb_TiO2.pdf">Most. Salma Zahan Lovely (2020)</a></p>
