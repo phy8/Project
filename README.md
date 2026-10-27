@@ -6,6 +6,7 @@ Email: rashid@just.edu.bd
 
 <p><a href="https://phy8.github.io/Project/2023_Sheikh_Mahadia_Mahi_191306_Ca2VInO6.pdf"> Sheikh Mahadia Mahi (2023)</a> [<a href="https://doi.org/10.1016/j.mtcomm.2026.114620" target="_blank">Publication</a>]</p>
 <p><a href="https://phy8.github.io/Project/2023_Lakshmi_Rani_Paul_191311_Ca2VTlO6.pdf"> Lakshmi Rani Paul (2023)</a> [<a href="https://doi.org/10.1016/j.mtcomm.2026.114620" target="_blank">Publication</a>]</p>
+<p><a href="https://phy8.github.io/Project/2023_Minhazul_Islam_Nayem_191314_RbSrBi.pdf"> Minhazul Islam Nayem (2023)</a> [<a href="https://doi.org/10.1016/j.nxmate.2026.103656" target="_blank">Publication</a>]</p>
 
 
 <hr style="height:5px;border-width:0;color:gray">
